@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/ClassLibrary1/Customer.cs) (VB: [Customer.vb](./VB/ClassLibrary1/Customer.vb))
+* [Program.cs](./CS/ConsoleApplication1/Program.cs) (VB: [Program.vb](./VB/ConsoleApplication1/Program.vb))
+* **[Service1.svc.cs](./CS/WcfService1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WcfService1/Service1.svc.vb))**
+* [Web.config](./CS/WcfService1/Web.config) (VB: [Web.config](./VB/WcfService1/Web.config))
+<!-- default file list end -->
 # How to implement a distributed object layer service working via WCF
 
 
