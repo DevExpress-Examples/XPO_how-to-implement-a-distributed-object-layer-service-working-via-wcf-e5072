@@ -48,7 +48,7 @@
 <p> </p>
 <p> </p>
 <p>See <a href="http://stackoverflow.com/questions/6600057/the-maximum-string-content-length-quota-8192-has-been-exceeded-while-reading-x">The maximum string content length quota (8192) has been exceeded while reading XML data</a></p>
-<p><strong>See also:</strong><br /> <a href="http://documentation.devexpress.com/#XPO/CustomDocument10018"><u>Transferring Data via WCF Services</u></a><u><br /> </u><a href="https://www.devexpress.com/Support/Center/p/AK3911">How to use XPO with a Web Service</a><a href="http://www.expandframework.com/blog/7-michael-proctor/93-how-to-serialize-your-xpo.html"><u><br /> </u><u>How to serialize your XPO<br /></u></a><u><a href="https://www.devexpress.com/Support/Center/p/E4930">How to connect to a remote data service instead of using a direct database connection</a> <br /></u></p>
+<p><strong>See also:</strong><br /> <a href="http://documentation.devexpress.com/#XPO/CustomDocument10018"><u>Transferring Data via WCF Services</u></a><u><br /> </u><a href="https://www.devexpress.com/Support/Center/p/AK3911">How to use XPO with a Web Service</a><u><a href="https://www.devexpress.com/Support/Center/p/E4930">How to connect to a remote data service instead of using a direct database connection</a> <br /></u></p>
 
 <br/>
 
